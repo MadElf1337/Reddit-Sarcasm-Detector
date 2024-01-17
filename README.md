@@ -1,10 +1,11 @@
-# Pepega
+# Reddit Sarcasm Detector
 
-## Problem Statement: Sarcasm detection
+An ML model developed for the purpose of detecting sarcasm in texts using training data from Reddit
 
-### Team members
+Requirements are specified in the requirements.txt file, please run
 
 ```
-Pranav Kulkarni
-Ishan Gala
+pip install -r requirements.txt
 ```
+
+This is a dockerized version of the application, run it on docker
