@@ -12,6 +12,5 @@ This is a dockerized version of the application, run it on docker using
 
 ```
 docker compose up -d
-
 ```
 in the bash shell
