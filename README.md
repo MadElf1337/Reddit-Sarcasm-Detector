@@ -21,4 +21,4 @@ The weights of the model are available here -
 https://huggingface.co/MadElf1337/reddit_sarcasm_lstm/blob/main/hope.h5
 ```
 
-Make sure to add the .h5 file to `models/`
+Make sure to add the .h5 file to `./models/`
